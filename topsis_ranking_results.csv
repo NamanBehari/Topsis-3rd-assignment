@@ -1,0 +1,7 @@
+Rank,Model,TOPSIS Score
+1,GPT-4,0.78
+2,LLaMA-2,0.75
+3,Falcon-40B,0.72
+4,BART,0.69
+5,T5,0.67
+6,Bloom,0.65
